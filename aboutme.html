@@ -17,9 +17,40 @@
     </div>
 
 
-     <!-- body HTML -->  
+<!-- Nav HTML -->
+<nav role="navigation">
+    <div id="menuToggle">
+      <!--
+      A fake / hidden checkbox is used as click reciever,
+      so you can use the :checked selector on it.
+      -->
+      <input type="checkbox" />
+      
+      <!--
+      Some spans to act as a hamburger.
+      
+      They are acting like a real hamburger,
+      not that McDonalds stuff.
+      -->
+      <span></span>
+      <span></span>
+      <span></span>
+      
+      <!--
+      Too bad the menu has to be inside of the button
+      but hey, it's pure CSS magic.
+      -->
+      <ul id="menu">
+        <a href="#"><li>Home</li></a>
+        <a href="#"><li>About us</li></a>
+        <a href="#"><li>Contact us</li></a>
+        <a href="#"><li>My Profile</li></a>
+      </ul>
+    </div>
+  </nav>
 
- 
+
+     <!-- body HTML -->  
     <section class="whiteB">
         <div style="text-align:center" id="nav">
             <span class="dotA dot" ></span>
@@ -38,7 +69,7 @@
             <p class="paragH">To best match players and teams, it's helpful to provide a description of who you are and what you’re looking for in a team, so teams and players can find the right match of skills and personality</p>
         </div>
         <br>
-        <img src="/Frame 98.png">
+        <img src="/img/Frame 98.png">
         <div class="bottomH"> 
             <p class="bottomP"></p>
             
