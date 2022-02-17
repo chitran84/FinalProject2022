@@ -179,7 +179,7 @@ text-shadow: 2px 2px 24px #FFFFFF;
   position: absolute;
   width: 352px;
   height: 331px;
-  left: 16px;
+  left: 100px;
   top: 400px;
   
   filter: drop-shadow(0px 0px 12px rgba(238, 92, 197, 0.5));
@@ -189,7 +189,7 @@ text-shadow: 2px 2px 24px #FFFFFF;
     width: 400px;
     height: 60px;
     left: 39px;
-    top: 700px;
+    top: 800px;
     font-family: Readex Pro;
     font-style: normal;
     font-weight: normal;
@@ -204,7 +204,7 @@ border-radius: 40px;
     width: 400px;
     height: 60px;
     left: 39px;
-    top: 800px;
+    top: 900px;
     font-family: Readex Pro;
     font-style: normal;
     font-weight: normal;
@@ -221,7 +221,7 @@ border-radius: 40px;
   width: 450px;
   height: 805px;
   left: 11px;
-  top: 870px;
+  top: 1000px;
   border-radius: 16px;
 }
 
