@@ -155,86 +155,41 @@ body {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .mainH{
-    position: absolute;
-    width: 149px;
-    height: 39px;
-    left: 121px;
-    top: 55px;
+  position: absolute;
+  width: 260px;
+  height: 87px;
+  left: 66px;
+  top: 217px;
     
-    font-family: Source Sans Pro;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 36px;
-    line-height: 45px;
-    display: flex;
-    align-items: center;
-    
-    color: #FFFFFF;
-    
-    text-shadow: 0px 2px 8px #FD69FF;
+  /* Logo Text Teamder */
+
+font-family: Source Sans Pro;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 80px;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 2px 2px 24px #FFFFFF;
 }
 .centerH{
-    position: absolute;
-    width: 459px;
-    height: 286px;
-    left: 14px;
-    top: 126px;
-    display: inline-flex;
-    justify-content: center;
+  position: absolute;
+  width: 352px;
+  height: 331px;
+  left: 16px;
+  top: 400px;
+  
+  filter: drop-shadow(0px 0px 12px rgba(238, 92, 197, 0.5));
 }
 .button1{
     position: absolute;
     width: 400px;
     height: 60px;
     left: 39px;
-    top: 422px;
+    top: 700px;
     font-family: Readex Pro;
     font-style: normal;
     font-weight: normal;
@@ -249,7 +204,7 @@ border-radius: 40px;
     width: 400px;
     height: 60px;
     left: 39px;
-    top: 514px;
+    top: 800px;
     font-family: Readex Pro;
     font-style: normal;
     font-weight: normal;
