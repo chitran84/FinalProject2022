@@ -1,14 +1,13 @@
 body {
-  background: linear-gradient(178.69deg, #CE7CCF 5.38%, #64A4EB 20.59%);
-  background-blend-mode: multiply;
-  border-radius: 0px
+  background: linear-gradient(#ce7ccf,  #64a4eb);
+
 }
 
 .mainH{
     position: absolute;
     width: 149px;
     height: 39px;
-    left: 150px;
+    left: 130px;
     top: 55px;
     
     font-family: Source Sans Pro;
@@ -170,8 +169,8 @@ body {
 }
 .whiteB{
   position: absolute;
-width: 476px;
-height: 938px;
+width: 499px;
+height: 62rem;
 left: 0px;
 top: 113px;
 
@@ -182,7 +181,7 @@ border-radius: 16px 16px 0px 0px;
   position: absolute;
 width: 387px;
 height: 66px;
-left: 100px;
+left: 70px;
 top: 10px;
 font-family: Open Sans;
 font-style: normal;
@@ -574,7 +573,7 @@ position: absolute;
 width: 230px;
 height: 49px;
 left: 120px;
-bottom: -270px;
+top: 65rem;
 
 background: #FFFFFF;
 /* Teamder pink */
